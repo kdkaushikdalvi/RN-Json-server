@@ -1,0 +1,88 @@
+{
+  "songs": [
+    {
+      "id": "1",
+      "title": "QqGet qqLucky",
+      "artist": "AaDaft Punk ft. Pharrell Williams, Nile Rodgers",
+      "duration": "04:09",
+      "image": "https://www.bensound.com/bensound-img/happyrock.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Counting Stars",
+      "artist": "OneRepublic",
+      "duration": "04:18",
+      "image": "https://www.bensound.com/bensound-img/punky.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Lights",
+      "artist": "Ellie Goulding",
+      "duration": "04:02",
+      "image": "https://www.bensound.com/bensound-img/dance.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Grenade",
+      "artist": "Bruno Mars",
+      "duration": "03:50",
+      "image": "https://www.bensound.com/bensound-img/hipjazz.jpg"
+    },
+    {
+      "id": "5",
+      "title": "Addicted To You",
+      "artist": "Avicii",
+      "duration": "02:26",
+      "image": "https://www.bensound.com/bensound-img/groovyhiphop.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Renegades",
+      "artist": "X Ambassadors",
+      "duration": "03:20",
+      "image": "https://www.bensound.com/bensound-img/popdance.jpg"
+    },
+    {
+      "id": "7",
+      "title": "Rsdkjkns",
+      "artist": "Vance Joy",
+      "duration": "03:18",
+      "image": "https://www.bensound.com/bensound-img/funnysong.jpg"
+    },
+    {
+      "id": "8",
+      "title": "Dont Stop Me Now",
+      "artist": "Queen",
+      "duration": "03:32",
+      "image": "https://www.bensound.com/bensound-img/danphillipson2.jpg"
+    },
+    {
+      "id": "9",
+      "title": "Another Brick In The Wall",
+      "artist": "Pink Floyd",
+      "duration": "03:56",
+      "image": "https://www.bensound.com/bensound-img/yari2.jpg"
+    },
+    {
+      "id": "10",
+      "title": "Piano Sonata No. 1 in F minor",
+      "artist": "Ludwig van Beethoven",
+      "duration": "17:52",
+      "image": "https://www.bensound.com/bensound-img/antonvlasov-future.jpg"
+    },
+    {
+      "id": "11",
+      "title": "Symphony No. 40 in G minor K.550",
+      "artist": "Wolfgang Amadeus Mozart",
+      "duration": "26:25",
+      "image": "https://www.bensound.com/bensound-img/antonvlasov2.jpg"
+    },
+    {
+      "id": "12",
+      "title": "1Violin Sonata No. 2 in A minor BWV.1003",
+      "artist": "Johann Sebastian Bach",
+      "duration": "24:36",
+      "image": "https://www.bensound.com/bensound-img/funkysuspense.jpg"
+    }
+  ]
+}

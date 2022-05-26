@@ -1,0 +1,145 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Some component renders correctly 1`] = `
+<RCTScrollView>
+  <View>
+    <View
+      style={
+        Object {
+          "flex": 1,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "flex": 1,
+            "padding": 30,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "display": "flex",
+              "flexDirection": "row",
+              "justifyContent": "center",
+              "margin": 10,
+            }
+          }
+        >
+          <Image
+            source={
+              Object {
+                "uri": undefined,
+              }
+            }
+            style={
+              Object {
+                "alignItems": "center",
+                "borderColor": "#00BFFF",
+                "borderRadius": 35,
+                "borderWidth": 4,
+                "display": "flex",
+                "height": 80,
+                "justifyContent": "center",
+                "width": 80,
+              }
+            }
+          />
+        </View>
+        <Text
+          style={
+            Object {
+              "fontSize": 26,
+              "fontWeight": "600",
+            }
+          }
+        >
+          Song Name : 
+        </Text>
+        <Text
+          style={
+            Object {
+              "fontSize": 16,
+              "marginTop": 10,
+            }
+          }
+        >
+          Description : 
+        </Text>
+        <Text
+          style={
+            Object {
+              "color": "#696969",
+              "marginTop": 10,
+            }
+          }
+        >
+          Duration : 
+        </Text>
+        <View
+          accessible={true}
+          collapsable={false}
+          focusable={false}
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "#7DE695",
+              "borderRadius": 30,
+              "flexDirection": "row",
+              "height": 45,
+              "justifyContent": "center",
+              "marginTop": 10,
+              "opacity": 1,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#000",
+                "fontSize": 20,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            Play
+          </Text>
+        </View>
+      </View>
+    </View>
+    <Modal
+      animationType="fade"
+      hardwareAccelerated={false}
+      onRequestClose={[Function]}
+      transparent={true}
+      visible={true}
+    >
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "backgroundColor": "#00000077",
+            "flex": 1,
+            "justifyContent": "center",
+          }
+        }
+      >
+        <ActivityIndicator
+          color="white"
+          size="large"
+        />
+      </View>
+    </Modal>
+  </View>
+</RCTScrollView>
+`;
